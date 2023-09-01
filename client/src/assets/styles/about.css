@@ -1,0 +1,22 @@
+.about-container {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 2rem;
+  flex-direction: column;
+}
+
+.about-paragraph {
+  width: 80%;
+}
+
+.portrait {
+  height: 20rem;
+  height: 20rem;
+}
+
+.img-wrapper {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
