@@ -3,7 +3,7 @@ import "../assets/styles/navbar.css";
 
 const Navbar = () => {
   return (
-    <div>
+    <div className="navbar-container">
       <Link to="/">home</Link>
       <Link to="/info">what is craniosacral?</Link>
       <Link to="/about">about</Link>
